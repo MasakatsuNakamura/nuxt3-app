@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../dtcore"
+		},
+		{
+			"path": "../../dtcore-sam"
+		},
+		{
+			"path": "../../tasuki-funds"
+		},
+		{
+			"path": "../../trig-funds-deploy"
+		},
+		{
+			"path": "../../tasuki-land"
+		},
+		{
+			"path": "../../nuxt_test"
+		}
+	],
+	"settings": {}
+}
